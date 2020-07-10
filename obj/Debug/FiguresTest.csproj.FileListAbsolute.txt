@@ -1,5 +1,0 @@
-/home/titoffklim/Documents/Проекты/Тестовые проекты/FiguresTest/FiguresTest/bin/Debug/FiguresTest.dll
-/home/titoffklim/Documents/Проекты/Тестовые проекты/FiguresTest/FiguresTest/bin/Debug/FiguresTest.pdb
-/home/titoffklim/Documents/Проекты/Тестовые проекты/FiguresTest/FiguresTest/obj/Debug/FiguresTest.csproj.CoreCompileInputs.cache
-/home/titoffklim/Documents/Проекты/Тестовые проекты/FiguresTest/FiguresTest/obj/Debug/FiguresTest.dll
-/home/titoffklim/Documents/Проекты/Тестовые проекты/FiguresTest/FiguresTest/obj/Debug/FiguresTest.pdb
