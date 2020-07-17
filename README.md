@@ -6,12 +6,12 @@ Despite the task, the library implements additional functionality.
 
 ## Implemented classes and interfaces
 
-- Figures class: a static class that implements the method for calculating the area of ISquarable figures
-- ISquarable interface: an interface for shapes that can be used to calculate the area
-- Point class: a class for storing points in two-dimensional space
-- Pointed class: a class defining an n-gon in two-dimensional space, implements ISquarable
-- Triangle class, implements Pointed
-- Circle class, implements ISquarable.
+- `Figures` class: a static class that implements the method for calculating the area of `ISquarable` figures
+- `ISquarable` interface: an interface for shapes that can be used to calculate the area
+- `Point` class: a class for storing points in two-dimensional space
+- `Pointed` class: a class defining an n-gon in two-dimensional space, implements `ISquarable`
+- `Triangle` class, implements `Pointed`
+- `Circle` class, implements `ISquarable`.
 
 ## Library quick test
 
